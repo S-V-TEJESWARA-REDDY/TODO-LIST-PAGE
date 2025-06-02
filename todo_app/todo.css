@@ -1,0 +1,95 @@
+.para1{
+    font-family:roboto;
+    padding:15px 0px 10px 25px;
+    margin:5px 0px 10px 0px;
+    width:100vh;
+    background-color:rgb(205, 235, 236);
+    border-left:5px solid rgb(7, 7, 114);
+    border-radius:5px;
+    
+}
+.lab{
+    width:100%;
+}
+.c1{
+    padding:25px 15px 25px 25px;
+    
+    background-size:100vh;
+    background-color:rgb(235, 243, 243);
+    
+}
+span{
+    font-weight:bold;
+}
+.head{
+    font-family:roboto;
+
+}
+.para{
+    font-family:"roboto";
+    font-size:30px;
+}
+.in{
+    font-family:roboto;
+    border-radius:8px;
+    width:100%;
+    border:none ;
+    padding:10px;
+}
+#c1,#c2,#c3{
+    margin-right:15px;
+    margin-top:22px;
+    height:15px;
+    width:20px;
+}
+.container{
+    width:50%;
+}
+
+.but{
+    font-family:roboto;
+    border:none;
+    color:white;
+    background-color:rgb(81, 81, 234);
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px 10px 20px;
+}
+.add{
+    text-decoration:line-through;
+}
+.checkbox{
+    height:15px;
+    width:15px;
+    margin:25px 15px 0px 0px;
+}
+.list{
+    list-style-type:none;
+}
+.icon{
+    height:20px;
+    width:20px;
+    color: #5a2fc9;
+
+}
+.delete{
+    text-align:right;
+    
+    width:10%;
+    /* height:100vh; */
+    padding:0px 25px 0px 0px;
+}
+.label1{
+    width:90%;
+    padding:2px 200px 0px 0px;
+    text-transform: uppercase;
+}
+.text{
+    text-decoration:line-through;
+}
+.warning{
+    font-family:"roboto";
+    color:rgb(193, 32, 32);
+
+    margin:3px 0px 15px 10px;
+}
